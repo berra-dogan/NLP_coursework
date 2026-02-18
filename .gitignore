@@ -1,2 +1,7 @@
 .vscode
 /catboost_info
+/runs
+/outputs
+/cache_dir
+/models_created
+/models
