@@ -4,4 +4,5 @@
 /outputs
 /cache_dir
 /models_created
-/models
+/hf_model
+/data
