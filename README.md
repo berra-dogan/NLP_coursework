@@ -31,3 +31,17 @@ The main target used throughout is a **binary label**:
 
 ### Model artifacts
 - **`models_link.txt`** — Link to downloaded/saved model artifacts (Google Drive folder).
+
+---
+
+## Citation
+
+This project fine-tunes the RoBERTa-base language model introduced in:
+
+Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019).  
+*RoBERTa: A Robustly Optimized BERT Pretraining Approach*. arXiv:1907.11692.
+
+The implementation is based on the Hugging Face `transformers` library:
+
+Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Rault, T., Louf, R., Funtowicz, M., & Brew, J. (2020).  
+*Transformers: State-of-the-Art Natural Language Processing*. EMNLP 2020.
