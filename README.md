@@ -15,14 +15,15 @@ The main target used throughout is a **binary label**:
 
 ## Repository contents
 
-### Notebooks
+### Notebooks and utils
 - **`EDA.ipynb`** — Exploratory data analysis and dataset inspection.
 - **`train_val_ds_split.ipynb`** — Train/validation splitting utilities for given validation indices.
 - **`roberta_model.ipynb`** — Fine-tuning `roberta-base` for binary PCL classification (Hugging Face Trainer).
 - **`pipeline_and_ensemble_models.ipynb`** — Feature extraction + classical pipeline model and ensemble logic.
 - **`local_evaluation.ipynb`** — Run local evaluation.
+- **`utils.py`** — Class definitions for local evaluation.
 
-### Data & outputs
+### Data and outputs
 - **`data/`** — TSV datasets (train/val/test).
 - **`output/`** — Saved predictions, logs, or artifacts produced by the notebooks.
 
