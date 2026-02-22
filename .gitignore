@@ -3,6 +3,5 @@
 /runs
 /outputs
 /cache_dir
-/models_created
-/hf_model
+/models
 /data
