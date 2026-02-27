@@ -4,3 +4,6 @@
 /outputs
 /cache_dir
 /models
+*.html
+local_evaluation.pdf
+EDA.pdf
